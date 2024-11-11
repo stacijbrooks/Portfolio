@@ -1,0 +1,8 @@
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.csproj.AssemblyReference.cache
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.AssemblyInfoInputs.cache
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.AssemblyInfo.cs
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.csproj.CoreCompileInputs.cache
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\staci\OneDrive\Desktop\LaunchCode\Staci_Brooks\PortfolioApi\obj\Debug\net8.0\PortfolioApi.sourcelink.json
